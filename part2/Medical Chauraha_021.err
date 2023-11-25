@@ -1,0 +1,6 @@
+﻿                  Warning	Simulation second 104.50: After 60.00 seconds of waiting for lane change the vehicle 119 (on Static Vehicle Route "2 - 1") was removed from link "3: MC_SN_P" at position 33.252 m.	Network object type: Vehicle	Network object keys: 119
+                  Warning	Simulation second 141.50: After 60.00 seconds of waiting for lane change the vehicle 198 (on Static Vehicle Route "6 - 2") was removed from link "14: SN_ME_P" at position 65.206 m.	Network object type: Vehicle	Network object keys: 198
+                  Warning	Simulation second 188.30: After 60.00 seconds of waiting for lane change the vehicle 323 (on Static Vehicle Route "2 - 1") was removed from link "3: MC_SN_P" at position 33.252 m.	Network object type: Vehicle	Network object keys: 323
+                  Warning	Vehicle input 4 could not be finished completely (remain: 13 vehicles).	Network object type: Vehicle Input	Network object keys: 4
+                  Warning	Vehicle input 8 could not be finished completely (remain: 12 vehicles).	Network object type: Vehicle Input	Network object keys: 8
+                  Warning	Vehicle input 9 could not be finished completely (remain: 31 vehicles).	Network object type: Vehicle Input	Network object keys: 9

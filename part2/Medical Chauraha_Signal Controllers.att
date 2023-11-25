@@ -1,0 +1,25 @@
+﻿$VISION
+* File:		D:\satyam_soni\BTP\VISSOM_SAMPLE\Medical Chauraha.inpx
+* Comment:	
+* Date:		11/22/2023 12:43:45 AM
+* Application:	PTV Vissim 2023.00-09 [262931]
+* 
+* Table: Signal Controllers
+* 
+* NO: No, Number (Unique number of the SC)
+* NAME: Name, Name (Name of the signal control)
+* TYPE: Type, Type (Signal control procedures. A tab for the definition of attributes is displayed for the selected signal control procedures.)
+* CYCTM: CycTm, Cycle time (Optional cycle time. Duration in seconds. Signal controller type 'Fixed time (simple)': Editable during the simulation.) [s]
+* CYCTMISVAR: CycTmIsVar, Cycle time is variable (Cycle time is variable)
+* SUPPLYFILE1: SupplyFile1, Supply file 1 (Configuration file #1 for the signal control. Depending on the type of the signal controller, different files are required.)
+* SUPPLYFILE2: SupplyFile2, Supply file 2 (Configuration file #2 for the signal control. Depending on the type of the signal controller, different files are required.)
+* PROGNO: ProgNo, Program number (The signal program or daily signal program list that you want to simulate (Defining and editing daily signal program lists). A change of program is possible if the simulation run is in single-step mode. If the new signal program number is confirmed with OK, the changeover is triggered in the next simulation second.)
+* 
+* No;Name;Type;CycTm;CycTmIsVar;SupplyFile1;SupplyFile2;ProgNo
+* Number;Name;Type;Cycle time;Cycle time is variable;Supply file 1;Supply file 2;Program number
+*
+$SIGNALCONTROLLER:NO;NAME;TYPE;CYCTM;CYCTMISVAR;SUPPLYFILE1;SUPPLYFILE2;PROGNO
+1;MC;Fixed Time;0;0;C:\Program Files\PTV Vision\PTV Vissim 2023\Exe\vissig.config;;1
+2;SN;Fixed Time;0;0;C:\Program Files\PTV Vision\PTV Vissim 2023\Exe\vissig.config;;1
+3;JJ;Fixed Time;0;0;C:\Program Files\PTV Vision\PTV Vissim 2023\Exe\vissig.config;;1
+

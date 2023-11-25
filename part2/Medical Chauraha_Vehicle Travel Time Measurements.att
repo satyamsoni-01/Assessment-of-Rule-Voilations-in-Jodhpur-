@@ -1,0 +1,65 @@
+﻿$VISION
+* File:		D:\satyam_soni\BTP\VISSOM_SAMPLE\Medical Chauraha.inpx
+* Comment:	
+* Date:		11/22/2023 12:42:58 AM
+* Application:	PTV Vissim 2023.00-09 [262931]
+* 
+* Table: Vehicle Travel Time Measurements
+* 
+* NO: No, Number (Unique number of the vehicle travel time measurement)
+* NAME: Name, Name (Name of travel time measurement)
+* STARTLINK: StartLink, Start link (Number of the link of From Section)
+* STARTPOS: StartPos, Start position (Position of the From Section on the link or connector) [m]
+* ENDLINK: EndLink, End link (Number of the link, on which the destination marker of the Vehicle travel time measurement is located)
+* ENDPOS: EndPos, End position (Position inside the destination link/connector) [m]
+* DIST: Dist, Distance (Length of the determined shortcut (shortest possible path) from the From Section to the To Section.  If you change the value, the position of the To Section is automatically adjusted.  If no distance is entered, no continuous link sequence exists between both markers.  Define a distance so large that the vehicles cannot traverse the From section and the To Section within the same time step.) [m]
+* 
+* No;Name;StartLink;StartPos;EndLink;EndPos;Dist
+* Number;Name;Start link;Start position;End link;End position;Distance
+*
+$VEHICLETRAVELTIMEMEASUREMENT:NO;NAME;STARTLINK;STARTPOS;ENDLINK;ENDPOS;DIST
+1;MC_R_ME;7;56.394;2;52.504;164.00
+2;MC_R_SN;7;58.155;4;74.668;222.05
+3;MC_R_MD;7;59.916;5;70.968;232.72
+4;MC_ME_SN;1;2.671;4;73.298;151.12
+5;MC_ME_MD;1;6.415;5;68.249;167.49
+6;MC_ME_R;1;7.159;8;97.739;214.60
+7;MC_SN_MD;3;5.421;5;68.756;141.44
+8;MC_SN_R;3;2.566;8;96.262;207.26
+9;MC_SN_ME;3;6.361;2;52.255;183.12
+10;MC_MD_R;6;1.459;8;96.561;175.03
+11;MC_MD_ME;6;2.007;2;52.909;169.22
+12;MC_MD_SN;6;2.955;4;69.797;201.50
+13;SN_MC_ME;12;3.730;15;60.470;106.40
+14;SN_MC_JJ;12;2.364;12;131.727;129.36
+15;SN_MC_C;12;4.680;17;63.138;153.62
+16;SN_ME_JJ;14;6.800;12;132.003;117.71
+17;SN_ME_C;14;7.509;17;63.876;165.23
+18;SN_ME_MC;14;7.805;13;135.307;151.89
+19;SN_JJ_C;13;1.723;17;63.181;137.64
+20;SN_JJ_MC;13;4.926;13;135.977;131.05
+21;SN_JJ_ME;13;7.246;15;57.724;154.11
+22;SN_C_MC;16;3.782;13;134.103;123.07
+23;SN_C_ME;16;4.404;15;54.015;155.03
+24;SN_C_JJ;16;8.225;12;132.089;155.86
+25;JJ_SN_SAS;18;2.937;23;52.496;76.32
+26;JJ_SN_MM;18;4.432;26;30.762;131.83
+27;JJ_SN_12TH;18;5.328;28;59.210;175.62
+28;JJ_SN_C;18;7.397;25;38.617;173.65
+29;JJ_SAS_MM;22;4.979;26;31.141;86.98
+30;JJ_SAS_12TH;22;4.005;28;61.433;163.29
+31;JJ_SAS_C;22;5.954;25;42.787;163.39
+32;JJ_SAS_SN;22;5.828;27;66.700;212.04
+33;JJ_MM_12TH;21;5.277;28;58.546;112.66
+34;JJ_MM_C;21;8.524;25;40.582;127.72
+35;JJ_MM_SN;21;11.127;27;69.434;178.58
+36;JJ_MM_SAS;21;8.225;23;53.167;183.97
+37;JJ_12TH_C;19;6.732;25;40.888;109.56
+38;JJ_12TH_SN;19;6.919;27;64.977;170.38
+39;JJ_12TH_SAS;19;4.784;23;52.962;179.26
+40;JJ_12TH_MM;19;6.556;26;32.053;172.57
+41;JJ_C_SN;20;8.388;27;67.772;116.03
+42;JJ_C_SAS;20;7.022;23;55.125;136.38
+43;JJ_C_MM;20;7.934;26;31.370;127.71
+44;JJ_C_12TH;20;12.339;28;61.602;169.77
+

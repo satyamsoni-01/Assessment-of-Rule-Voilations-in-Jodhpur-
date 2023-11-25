@@ -1,0 +1,11 @@
+﻿                  Warning	Simulation second 104.50: After 60.00 seconds of waiting for lane change the vehicle 186 (on Static Vehicle Route "2 - 1") was removed from link "3: MC_SN_P" at position 33.252 m.	Network object type: Vehicle	Network object keys: 186
+                  Warning	Simulation second 139.50: Vehicle 533 (on Static Vehicle Route "10 - 1") reached the end of link "21: JJ_C" without finding the subsequent link ("10028: JJ1").	Network object type: Vehicle	Network object keys: 533
+                  Warning	Simulation second 141.40: Vehicle 442 (on Static Vehicle Route "10 - 1") reached the end of link "21: JJ_C" without finding the subsequent link ("10028: JJ1").	Network object type: Vehicle	Network object keys: 442
+                  Warning	Simulation second 141.50: After 60.00 seconds of waiting for lane change the vehicle 312 (on Static Vehicle Route "6 - 2") was removed from link "14: SN_ME_P" at position 65.206 m.	Network object type: Vehicle	Network object keys: 312
+                  Warning	Simulation second 142.90: Vehicle 483 (on Static Vehicle Route "10 - 1") reached the end of link "21: JJ_C" without finding the subsequent link ("10028: JJ1").	Network object type: Vehicle	Network object keys: 483
+                  Warning	Simulation second 151.40: Vehicle 643 (on Static Vehicle Route "10 - 1") reached the end of link "21: JJ_C" without finding the subsequent link ("10028: JJ1").	Network object type: Vehicle	Network object keys: 643
+                  Warning	Simulation second 159.10: Vehicle 572 (on Static Vehicle Route "9 - 1") reached the end of link "22: JJ_SAS" without finding the subsequent link ("10027: JJ2").	Network object type: Vehicle	Network object keys: 572
+                  Warning	Vehicle input 8 could not be finished completely (remain: 4 vehicles).	Network object type: Vehicle Input	Network object keys: 8
+                  Warning	Vehicle input 9 could not be finished completely (remain: 20 vehicles).	Network object type: Vehicle Input	Network object keys: 9
+                  Warning	Vehicle input 10 could not be finished completely (remain: 20 vehicles).	Network object type: Vehicle Input	Network object keys: 10
+                  Warning	Vehicle input 14 could not be finished completely (remain: 13 vehicles).	Network object type: Vehicle Input	Network object keys: 14

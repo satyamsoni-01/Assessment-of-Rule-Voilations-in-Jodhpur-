@@ -1,0 +1,5 @@
+﻿                  Warning	Simulation second 141.30: Vehicle 387 (on Static Vehicle Route "1 - 1") reached the end of link "1: MC_Me_P" without finding the subsequent link ("10012: MC_ME_SN").	Network object type: Vehicle	Network object keys: 387
+                  Warning	Simulation second 250.70: After 60.00 seconds of waiting for lane change the vehicle 436 (on Static Vehicle Route "4 - 1") was removed from link "7: MC_R_P" at position 117.437 m.	Network object type: Vehicle	Network object keys: 436
+                  Warning	Vehicle input 4 could not be finished completely (remain: 4 vehicles).	Network object type: Vehicle Input	Network object keys: 4
+                  Warning	Vehicle input 8 could not be finished completely (remain: 33 vehicles).	Network object type: Vehicle Input	Network object keys: 8
+                  Warning	Vehicle input 9 could not be finished completely (remain: 37 vehicles).	Network object type: Vehicle Input	Network object keys: 9
