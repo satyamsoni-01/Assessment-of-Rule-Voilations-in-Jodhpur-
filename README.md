@@ -6,7 +6,7 @@ Key Achievements:
 <br>
 Conducted a thorough assessment of rule violations within the traffic system of Jodhpur, focusing on a critical corridor from Bombay Motor Circle to Medical Chauraha, encompassing five major intersections.
   <br>
-Utilized Trazzer and VISSIM software for precise vehicle counting, traffic analysis, and optimization, resulting in a nuanced understanding of traffic flow dynamics.
+Utilized Trazer and VISSIM software for precise vehicle counting, traffic analysis, and optimization, resulting in a nuanced understanding of traffic flow dynamics.
     <br>
 Implemented optimization measures in Residency Road, leading to notable reductions in travel times on specific routes and contributing to a more efficient transportation system.
       <br>
